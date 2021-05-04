@@ -1,5 +1,5 @@
 version: 0.1
 ovpn_logs:
     bw_usage: /some/location/here.txt
-    client_ip: /some/other/location/there.log
+    client_ip: ./res/ipp.txt
 
