@@ -1,5 +1,4 @@
 version: 0.1
 ovpn_logs:
-    bw_usage: /some/location/here.txt
-    client_ip: ./res/ipp.txt
+    client_status: ./res/openvpn-status.log
 

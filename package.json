@@ -13,6 +13,7 @@
   "author": "Davide Trentin",
   "license": "ISC",
   "dependencies": {
+    "@influxdata/influxdb-client": "^1.13.0",
     "js-yaml": "^4.1.0",
     "minimist": "^1.2.5"
   },
