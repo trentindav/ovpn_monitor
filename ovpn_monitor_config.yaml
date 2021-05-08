@@ -1,4 +1,9 @@
 version: 0.1
 ovpn_logs:
     client_status: ./res/openvpn-status.log
+influxdb:
+    url: http://localhost:8086
+    org: davideorg
+    bucket: davidebucket
+    token: o8EflygvzVNrjYY8DWV0_n0GEg2tth8kWDceiFD3j_6P-XgNPsteR8h4OHRM_aRL_bCzN8NT3LsEF6aqVrJJBg==
 
