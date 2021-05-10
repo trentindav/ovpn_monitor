@@ -20,5 +20,7 @@ Then go to the Web interface to complete the setup: `http://localhost:8086`
 
 ### TODO
 
+- Tx Bytes
+- Save Total sum of all users in new Point to display it easily (sum + derivative issue)
 - Save users IPs in DB
 - Configurable period for monitoring

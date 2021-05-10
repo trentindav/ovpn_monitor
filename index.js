@@ -1,7 +1,5 @@
 const yaml = require("js-yaml");
 const fs = require("fs");
-//const vpnStatus = require("./lib/ovpn_status");
-//const influx = require("./lib/influxdb_client");
 const { Worker } = require("worker_threads");
 
 const args = require("minimist")(process.argv.slice(2), {
@@ -27,12 +25,6 @@ async function main() {
     filePath: config.ovpn_logs.client_status,
     influxdb: config.influxdb,
   });
-
-  while (true) {
-    await sleep(1000);
-  }
-
-  //ovpnWorker.terminate();
 }
 
 main();

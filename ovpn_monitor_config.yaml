@@ -5,5 +5,5 @@ influxdb:
     url: http://localhost:8086
     org: davideorg
     bucket: davidebucket
-    token: o8EflygvzVNrjYY8DWV0_n0GEg2tth8kWDceiFD3j_6P-XgNPsteR8h4OHRM_aRL_bCzN8NT3LsEF6aqVrJJBg==
+    token: tqm4QFipPSCX5jxp3tjcdeQtzOCE9_u9Z8rhWhUmLwHGqxQei3PWZnZZXoAtd55a0QpvI5rqCYETlMWsHBRSCw==
 
